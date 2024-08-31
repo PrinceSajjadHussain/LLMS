@@ -1,0 +1,6 @@
+openai
+pinecone-client
+langchain
+transformers
+torch
+huggingface_hub
